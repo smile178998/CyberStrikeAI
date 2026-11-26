@@ -427,3 +427,5 @@ For vulnerability reporting and deployment hardening guidance, see [SECURITY.md]
 ---
 
 Need help or want to contribute? Open an issue or PR—community tooling additions are welcome!
+
+<!-- maintained by smile178998 -->
