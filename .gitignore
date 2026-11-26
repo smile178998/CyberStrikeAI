@@ -10,6 +10,7 @@ chat_uploads/
 
 # Local configuration and secrets
 config.yaml
+mcp-servers/pent_claude_agent/pent_claude_agent_config.yaml
 config.local.yaml
 config.yaml.backup
 *.backup
